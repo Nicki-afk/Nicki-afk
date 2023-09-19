@@ -28,9 +28,9 @@
 
 <div style="text-align: center;">
 
-<img src="https://streak-stats.demolab.com/?user=Nicki-afk&theme=dracula" alt="GitHub Streak" style="display: inline-block; margin: 0; padding: 0;" />
+<img src="https://streak-stats.demolab.com/?user=Nicki-afk&theme=dracula" alt="GitHub Streak" align="center" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nicki-afk&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nicki-afk&show_icons=true&theme=dracula" alt="Anurag's GitHub stats"  align="center" />
 
 </div>
 
