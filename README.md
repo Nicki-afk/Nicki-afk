@@ -1,3 +1,8 @@
+
+
+<div align="center">
+
+
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -18,8 +23,7 @@
 
 
 
-
-
+ 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nicki-afk&theme=dracula)
  
 
@@ -29,5 +33,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nicki-afk&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nicki-afk&theme=dracula&utcOffset=8)
 
+
+</div>
 
 
