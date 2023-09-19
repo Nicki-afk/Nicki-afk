@@ -14,30 +14,27 @@
 
   [![codewars](https://www.codewars.com/users/nic_kos/badges/small)](https://www.codewars.com/users/nic_kos) 
   <a href="https://wakatime.com/@567433f5-e2b1-444a-b9ed-57e3f66f0f93" ><img src="https://wakatime.com/badge/user/567433f5-e2b1-444a-b9ed-57e3f66f0f93.svg" alt="Total time coded since Jul 27 2023" /></a>
+  ![](https://komarev.com/ghpvc/?username=Nicki-afk)
 
 
 
 
-<center>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nicki-afk&theme=react-dark)](https://github.com/Nicki-afk/github-readme-activity-graph)
 
- 
-
-  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nicki-afk&theme=dracula)](https://github.com/Nicki-afk/github-readme-activity-graph)
 
  
 
- 
+<div style="text-align: center;">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nicki-afk&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nicki-afk&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nicki-afk&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nicki-afk&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nicki-afk&theme=github_dark&utcOffset=8)
+<img src="https://streak-stats.demolab.com/?user=Nicki-afk&theme=dracula" alt="GitHub Streak" style="display: inline-block; margin: 0; padding: 0;" />
 
+<img src="https://github-readme-stats.vercel.app/api?username=Nicki-afk&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" align="right" />
 
+</div>
 
 
-</center>
+
+
+
