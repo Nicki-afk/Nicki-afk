@@ -19,6 +19,10 @@
 
 
 <center>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nicki-afk&theme=react-dark)](https://github.com/Nicki-afk/github-readme-activity-graph)
+
  
 
   
@@ -33,10 +37,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nicki-afk&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nicki-afk&theme=github_dark&utcOffset=8)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=nothing+is+impossible+for+those+who+try&author=Alexander+the+Great)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nicki-afk&theme=react-dark)](https://github.com/Nicki-afk/github-readme-activity-graph)
 
 </center>
