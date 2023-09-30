@@ -25,6 +25,8 @@
   ![Name](https://badges.peiyuan.ch/leetcode/nic_kos/name) 
   ![LeetCode](https://badges.peiyuan.ch/leetcode/nic_kos/ranking)
   ![Solved Problems](https://badges.peiyuan.ch/leetcode/nic_kos/solved?difficulty=all)
+  ![Static Badge](https://img.shields.io/badge/LinkedIn-nikita-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnikitajs%2F)
+
 
 
 
